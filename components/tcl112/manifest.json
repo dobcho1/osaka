@@ -1,0 +1,6 @@
+{
+  "name": "TCL112 AC Controller",
+  "version": "1.0.0",
+  "codeowners": ["@dobcho1"],
+  "requirements": []
+}
